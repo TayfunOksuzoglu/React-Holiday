@@ -1,3 +1,22 @@
+# Experiences Website
+
+This is a React.js project showcasing a fictional travel and accommodation website called Experiences. As a beginner's project in React.js, this website provides a platform to practice foundational skills in front-end web development.
+
+## Features
+
+- **Responsive Design**: The website is designed to be responsive and accessible on various devices.
+- **Navigation Menu**: A user-friendly navigation menu is available for easy access to different sections of the website.
+- **Image Slider**: An interactive image slider showcases the stunning destinations and accommodations available for booking.
+- **Newsletter Subscription**: Form for users to subscribe to the newsletter to receive the latest deals and resources.
+- **Social Media Integration**: The website integrates social media icons for easy sharing and engagement.
+
+## Technologies Used
+
+- React.js
+- JavaScript
+- HTML
+- CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
