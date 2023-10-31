@@ -14,8 +14,7 @@ This is a React.js project showcasing a fictional travel and accommodation websi
 
 - React.js
 - JavaScript
-- HTML
-- CSS
+- Tailwind
 
 # Getting Started with Create React App
 
