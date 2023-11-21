@@ -1,6 +1,6 @@
 # Experiences Website
 
-This is a React.js project showcasing a fictional travel and accommodation website called Experiences. As a beginner's project in React.js, this website provides a platform to practice foundational skills in React.js, Tailwind and Javascript.
+This is a React.js project showcasing a fictional travel and accommodation website called Experiences. 
 
 ## Features
 
